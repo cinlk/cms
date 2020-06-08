@@ -1,0 +1,6 @@
+
+appId: 1134
+secret: "test"
+host:
+  address: "demo"
+  port: 6789
